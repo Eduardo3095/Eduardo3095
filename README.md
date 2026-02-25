@@ -29,11 +29,3 @@ Atualmente trabalho com promotoria de vendas
 
 Me especializar nas linguagens que estou aprendendo, incluindo html e js.
 Quero desenvolver sistemas reais que resolvam problemas.
-
----
-
-## 📊 Minhas Estatísticas
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo3090&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo3090&layout=compact&theme=tokyonight)
