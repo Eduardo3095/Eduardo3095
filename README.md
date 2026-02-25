@@ -2,7 +2,7 @@
 
 Estudo engenharia de software
 Estou no primeiro semestre
-Tenho basio de Python e C
+Tenho basico de Python e C
 Atualmente trabalho com promotoria de vendas
 
 ---
