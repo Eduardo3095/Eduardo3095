@@ -1,16 +1,31 @@
-## Hi there 👋
+# ✌🏽 Ola! Me chamo Eduardo Silva
 
-<!--
-**Eduardo3095/Eduardo3095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo engenharia de software
+Estou no primeiro semestre
+Tenho basio de Python e C
+Atualmente trabalho com promotoria de vendas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou estudando:
+
+- C
+- Python
+- Logica de programacao
+- Git
+
+---
+
+## 📚 Projetos pessoais
+
+🔹 Sistema de caixa eletronico
+🔹 Comparacao de cartas (game)
+🔹 Sistema de beneficio social
+🔹 Sistema de controle de temperatura e umidade
+
+---
+
+## 📈 Objetivo
+
+Me especializar nas linguagens que estou aprendendo, incluindo html e js.
+Quero desenvolver sistemas reais que resolvam problemas.
