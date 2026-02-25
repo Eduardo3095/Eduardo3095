@@ -34,4 +34,4 @@ Quero desenvolver sistemas reais que resolvam problemas.
 
 ## 📊 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo3095&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo3095&show_icons=true)
